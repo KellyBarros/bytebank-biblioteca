@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="bytebank-herdado-conta-executavel">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/libs/bytebank-herdado-conta-executavel.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
